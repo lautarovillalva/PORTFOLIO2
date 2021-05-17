@@ -23,13 +23,13 @@ body{
     display: grid;
     grid-template-columns: 50% 50%;
     max-width: 100%;
+    gap: 1%;
 }
 .card{
     border-radius: 5px;
     box-shadow: 3px  4px 8px 3px rgba(0,0,0,0.2);
     transition: 0.3s;
     padding: 5%;
-    margin: 1%;
 }
 .card:hover {
     box-shadow: 6px 8px 16px 6px rgba(0,0,0,0.2);
