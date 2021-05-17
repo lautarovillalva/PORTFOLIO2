@@ -43,6 +43,7 @@ body{
 fieldset{
     margin-bottom: 12px;
     border: solid black;
+    border-radius: 2%;
 }
 legend{
     border: solid black;
