@@ -11,13 +11,14 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
     width: 300px;
     align-items: center;
     border-radius: 50%;
-    box-shadow: 6px 8px 16px 6px rgba(0,0,0,0.2);
+    box-shadow: 20px 20px 20px 20px rgba(0,0,0,0.2);
 }
 .container{
-    width: 60%;
+    width: 59%;
     margin: auto;
     background-color:cornsilk;
     border-radius: 1%;
+    box-shadow: 20px 20px 20px 20px rgba(0,0,0,0.2);
     border: solid black;
     padding-left: 5%;
     padding-right: 5%;
