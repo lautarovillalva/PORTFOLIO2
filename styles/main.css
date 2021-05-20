@@ -40,15 +40,12 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
     box-shadow: 6px 8px 16px 6px rgba(0,0,0,0.2);
   }
 .navegador{
-    display: flex;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
     max-width: 100%;
     text-align: center;
     padding-top: 10px;
-    flex-direction:row;
-    justify-content: space-around;
-    list-style: none;
 }
-
 a{
     text-decoration: none;
 }
