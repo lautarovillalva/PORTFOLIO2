@@ -5,6 +5,9 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
     text-align: justify;
     font-size: 20px;
 }
+li{
+    list-style:none;
+}
 #fotoperfil{
     display:block;
     margin:auto;
@@ -36,6 +39,9 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
     transition: 0.3s;
     padding: 5%;
     background-color:ghostwhite;
+}
+dd{
+    padding-right: 5%;
 }
 .card:hover {
     box-shadow: 6px 8px 16px 6px rgba(0,0,0,0.2);
