@@ -31,7 +31,8 @@ li{
     grid-template-columns: 1fr 1fr;
 
     max-width: 100%;
-    gap: 5%;
+    row-gap: 8%;
+    column-gap: 3%;
 }
 .card{
     border-radius: 5px;
